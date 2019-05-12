@@ -2,7 +2,7 @@
 
 class CostumeStore < ActiveRecord::Migration[4.2] 
   def change 
-    def create_table 
+    def create_table costume_stores 
     end 
   end 
 end 
