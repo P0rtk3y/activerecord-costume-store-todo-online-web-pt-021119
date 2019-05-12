@@ -8,6 +8,7 @@ class CreateCostumeStores < ActiveRecord::Migration[4.2]
       c.integer :costume_inventory
       
       
+      
     end 
   end 
 end 
